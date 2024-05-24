@@ -5,11 +5,11 @@ Sou desenvolvedor(a) apaixonado(a) por tecnologia e inovação. Tenho experiênc
 ## 📫 Como me encontrar
 
 <a href="https://www.linkedin.com/in/andre-oliveira2004/">
-  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" style="width: 150px;">
+  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" style="width: 110px;">
 </a>
 
 <a href="mailto:andreluiz1088@hotmail.com">
-  <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white" alt="Outlook" style="width: 150px;">
+  <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white" alt="Outlook" style="width: 110px;">
 </a>
   
 ## 🚀 Principais Linguagens
