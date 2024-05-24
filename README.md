@@ -1,52 +1,42 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou o André 👋
 
-![GitHub followers](https://img.shields.io/github/followers/seu-usuario?style=social)
-![GitHub stars](https://img.shields.io/github/stars/seu-usuario?style=social)
+Sou desenvolvedor(a) apaixonado(a) por tecnologia e inovação. Tenho experiência em Java usando framework Spring boot, no padrão MVC, e gosto de trabalhar em projetos que envolvem desenvolvimento de softwares inovadores e que facilitem o dia a dia do público alvo da aplicação.
 
-Sou desenvolvedor(a) apaixonado(a) por tecnologia e inovação. Tenho experiência em [seus principais conhecimentos] e gosto de trabalhar em projetos que envolvem [suas áreas de interesse].
+## 📫 Como me encontrar
+
+- [Linkedin](https://www.linkedin.com/in/andre-oliveira2004/)
+- [Email](andreluiz1088@hotmail.com)
 
 ## 🛠 Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
 ## 🌱 Atualmente estou aprendendo
 
-- [Nova tecnologia ou ferramenta que você está aprendendo]
-- [Outro tópico de interesse]
+- HTML e CSS
+- Framework VUE
 
 ## 👨‍💻 Projetos
 
 Aqui estão alguns projetos em que trabalhei recentemente:
 
-### [Projeto 1](link-para-o-projeto)
+### [Sistema Gerenciador de TGs](https://github.com/iNineBD/SGTG-2Sem2023)
 
-Descrição breve do projeto 1 e suas funcionalidades principais.
+O curso de Análise e Desenvolvimento de Sistemas da FATEC - São José dos Campos enfrenta desafios no gerenciamento dos Trabalhos de Graduação (TG's) devido à falta de um sistema eficiente. Para resolver isso, será desenvolvido um Sistema de Gerenciamento de Banco de Dados em Java e JavaFX. Esse sistema centralizará e simplificará a administração dos TG's, facilitando o acompanhamento das etapas, prazos de entrega e status dos projetos, melhorando a organização e supervisão dos trabalhos.
 
-### [Projeto 2](link-para-o-projeto)
+### [DataFlow](https://github.com/iNineBD/DataFlowServer-3Sem2024)
 
-Descrição breve do projeto 2 e suas funcionalidades principais.
+A empresa possui um sistema de processamento de dados em cascata, chamado pipeline, que coordena automaticamente vários estágios com base nas características das fontes de dados e nas necessidades dos clientes. A configuração manual dessas fontes é demorada e cria uma dependência excessiva de técnicos especializados.
 
-## 📫 Como me encontrar
+Para superar esse desafio, foi proposta a criação de uma interface amigável para configurar as fontes de dados em alguns estágios. Essa solução proporcionará maior agilidade na implantação para os clientes da Dom Rock, reduzindo a dependência de técnicos especializados.
 
-- [LinkedIn](link-para-seu-perfil-linkedin)
-- [Twitter](link-para-seu-perfil-twitter)
-- [Email](mailto:seu-email)
 
-## ⚡ Curiosidades
-
-- Fato interessante sobre você
-- Hobbies ou interesses fora do mundo da tecnologia
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
