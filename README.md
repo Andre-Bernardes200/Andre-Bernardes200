@@ -4,8 +4,20 @@ Sou desenvolvedor(a) apaixonado(a) por tecnologia e inovação. Tenho experiênc
 
 ## 📫 Como me encontrar
 
-- [Linkedin](https://www.linkedin.com/in/andre-oliveira2004/)
-- [Email](andreluiz1088@hotmail.com)
+<a href="https://www.linkedin.com/in/andre-oliveira2004/">
+  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" style="width: 150px;">
+</a>
+
+<a href="mailto:andreluiz1088@hotmail.com">
+  <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white" alt="Outlook" style="width: 150px;">
+</a>
+  
+## 🚀 Principais Linguagens
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andre-Bernardes200&show_icons=true&theme=radical&title_color=CCCCCC&icon_color=333333&text_color=CCCCCC&bg_color=222222" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Bernardes200&layout=compact&theme=radical&title_color=CCCCCC&icon_color=333333&text_color=CCCCCC&bg_color=222222" width="400" height="200" />
+</p>
 
 ## 🛠 Tecnologias e Ferramentas
 
