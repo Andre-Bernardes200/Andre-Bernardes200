@@ -20,8 +20,8 @@
 
 ## 🚀 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andre-Bernardes200&show_icons=true&theme=radical&title_color=ffffff&icon_color=00ffcc&text_color=cccccc&bg_color=1a1a1a" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Bernardes200&layout=compact&theme=radical&title_color=ffffff&icon_color=00ffcc&text_color=cccccc&bg_color=1a1a1a" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andre-Bernardes200&theme=radical&hide_border=true" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Bernardes200&layout=compact&theme=radical&title_color=ffffff&text_color=cccccc&bg_color=1a1a1a&hide_border=true" width="300" />
 </p>
 
 ---
