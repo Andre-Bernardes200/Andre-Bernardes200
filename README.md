@@ -20,8 +20,8 @@
 
 ## 🚀 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andre-Bernardes200&theme=radical&hide_border=true" width="500" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Bernardes200&layout=compact&theme=radical&title_color=ffffff&text_color=cccccc&bg_color=1a1a1a&hide_border=true" width="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Andre-Bernardes200&theme=radical" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Andre-Bernardes200&theme=radical" width="400" />
 </p>
 
 ---
